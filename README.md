@@ -1,2 +1,2 @@
-# Analytic-BoothCamp
+# Analytic-Bootcamp
 All assignments and challenges
